@@ -1,0 +1,33 @@
+
+* {
+    color: blue;
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(11, 0, 164);
+}
+p{
+    text-align: center;
+    color: darkred;
+}
+a{
+    text-align: center;
+    color: darkred;
+}
+.green-text{
+    color: rgb(20, 251, 20);
+}
+.css-heading{
+    font-weight: bold;
+    font-size: 18px;
+    color: brown;
+}
+ul{
+    text-align: center;
+}
+.img-no-inline{
+    width: 300;
+}

@@ -1,0 +1,24 @@
+button {
+  background-color: #778d45;
+  border: none;
+  font-size: 50px;
+  border-radius: 10px;
+  padding: 50px 40px;
+  color: aliceblue;
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  background-color: #aec09a;
+  border: none;
+  font-size: 50px;
+  border-radius: 10px;
+  padding: 50px 40px;
+  margin: 20px;
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:hover{
+    color: black;
+}
