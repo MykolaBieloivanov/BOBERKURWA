@@ -1,11 +1,11 @@
 p {
   background-color: #f5f5dc;
-  margin: 10px 20px;
+
   border: solid red;
 }
-span{
+span {
   border: solid blue;
 }
-body{
-  padding-right: 105px;
+body {
+  width: 504px;
 }
