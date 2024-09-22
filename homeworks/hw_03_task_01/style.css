@@ -6,3 +6,6 @@ p {
 span{
   border: solid blue;
 }
+body{
+  padding-right: 105px;
+}
