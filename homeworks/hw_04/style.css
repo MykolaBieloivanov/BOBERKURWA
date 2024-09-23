@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+main {
+  width: 400vh;
+}
+/* .container {
+  background-image: url(./imagebanner.jpeg);
+  background-size: cover;
+  padding: 35px;
+  display: flex;
+  justify-content:space-evenly;
+  justify-items: center;
+  align-items: end;
+} */
+.container {
+  display: flex;
+  padding: 35px;
+  padding-bottom: 5px;
+  justify-content: center;
+  gap: 50px;
+  align-items: end;
+  background-image: url(./imagebanner.jpeg);
+  background-size: cover;
+  color: aliceblue;
+  flex-direction: row;
+}
+
+.item {
+  display: flex;
+  opacity: 0.7;
+}
+.first {
+  height: 40px;
+}
+button {
+  border-radius: 5px;
+  color: grey;
+  
+}
+
+button:hover {
+  cursor: pointer;
+  color: black;
+}
+span{
+  margin-left: 10px;
+  font-size: 20px;
+  margin-bottom: 0px;
+
+}
